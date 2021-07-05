@@ -32,4 +32,4 @@ Este é apenas um README para mapear meus repositórios.
 
 ## SEM CATEGORIA
 
-- <a href="https://github.com/leandrocl2005/ml-train-tensorjs-regression">Regressão linear App(Estudando Tensorflow.js - Tensorflow.js Crash Course - CodingTheSmartWay 2020)</a>
+- <a href="https://github.com/leandrocl2005/ml-train-tensorjs-regression">Regressão linear App (Estudando Tensorflow.js - Tensorflow.js Crash Course - CodingTheSmartWay 2020)</a>
