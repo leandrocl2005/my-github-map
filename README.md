@@ -1,6 +1,6 @@
 # Mapa para meu Github
 
-Just a readme to map my personal Github.
+Este é apenas um README para mapear meus repositórios.
 
 ## HTML + CSS + JS personal repositories
 
