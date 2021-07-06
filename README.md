@@ -18,17 +18,21 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/podcastr-next-level-5-react">Podcast (Estudando Podcast - Next Level 5 -  Rocketseat 2021)</a>
 - <a href="https://imersao-next-alura-01-2021.vercel.app/">Tokyo Rush Quiz (Estudando Next Js - Imersão Alura 2ª edição - Alura 2021)</a> 
 
-## PYTHON - DATASCIENCE
+## PYTHON + DATASCIENCE
 
 - <a href="https://github.com/leandrocl2005/segep-2020-knapsack-problem-bot">Bot de Telegram para resolver o problema da mochila (Tutorial - SEGEP - UFTM 2020)</a>
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados">Mini-curso de ciência de dados (Tutorial - DMAT - UFTM - 2018)</a>
 
-## PYTHON - DJANGO
+## PYTHON + DJANGO
 
 - <a href="https://github.com/leandrocl2005/minidashboard">Minidashboard (Estudando Dashboards - 2021)</a>
 - <a href="https://github.com/leandrocl2005/dinopedia">Dinopedia: Introdução ao Django (Tutorial - PROFMAT - UFTM 2021)</a>
 - <a href="https://github.com/leandrocl2005/django-photo-gallery">Photo Gallery (Estudando hospedagem de imagens no S3 - 2021)</a>
 - <a href="https://github.com/leandrocl2005/weatherSchedule">Weather Schedule (Estudando agendamento de tarefas - 2021)</a>
+
+## PYTHON + FLASK
+
+- <a href="https://github.com/leandrocl2005/flask-imc-boilerplate">Imc app (Tutorial - SUEQ - UFTM 2020)</a>
 
 ## SEM CATEGORIA
 
