@@ -22,6 +22,7 @@ Este é apenas um README para mapear meus repositórios.
 
 - <a href="https://github.com/leandrocl2005/segep-2020-knapsack-problem-bot">Bot de Telegram para resolver o problema da mochila (Tutorial - SEGEP - UFTM 2020)</a>
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados">Mini-curso de ciência de dados (Tutorial - DMAT - UFTM - 2018)</a>
+- <a href="https://github.com/leandrocl2005/granularidade_air_quality">Granularidade usando Air Quality Dataset (Estudando granularidade - 2019)</a>
 
 ## PYTHON + DJANGO
 
