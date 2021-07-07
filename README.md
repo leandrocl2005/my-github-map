@@ -35,6 +35,10 @@ Este é apenas um README para mapear meus repositórios.
 
 - <a href="https://github.com/leandrocl2005/flask-imc-boilerplate">Imc app (Tutorial - SUEQ - UFTM 2020)</a>
 
+## PYTHON + MATEMÁTICA
+
+- <a href="https://github.com/leandrocl2005/calculo-2">Exemplos de cálculo vetorial (Material Apoio - DMAT- UFTM 2021)</a>
+
 ## SEM CATEGORIA
 
 - <a href="https://github.com/leandrocl2005/ml-train-tensorjs-regression">Regressão linear App (Estudando Tensorflow.js - Tensorflow.js Crash Course - CodingTheSmartWay 2020)</a>
