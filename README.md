@@ -30,6 +30,7 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/dinopedia">Dinopedia: Introdução ao Django (Tutorial - PROFMAT - UFTM 2021)</a>
 - <a href="https://github.com/leandrocl2005/django-photo-gallery">Photo Gallery (Estudando hospedagem de imagens no S3 - 2021)</a>
 - <a href="https://github.com/leandrocl2005/weatherSchedule">Weather Schedule (Estudando agendamento de tarefas - 2021)</a>
+- <a href="https://github.com/leandrocl2005/template2django-store">Django2Template Store (Tutorial - PROFMAT - UFTM 2021)</a>
 
 ## PYTHON + FLASK
 
