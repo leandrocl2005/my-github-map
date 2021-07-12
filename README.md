@@ -17,6 +17,7 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/nlw-together-letmeask-reactjs">Letmeask (Estudando Firebase - Next Level 6 Together - Rocketseat 2021)</a>
 - <a href="https://github.com/leandrocl2005/podcastr-next-level-5-react">Podcast (Estudando Podcast - Next Level 5 -  Rocketseat 2021)</a>
 - <a href="https://github.com/leandrocl2005/imersao-next-alura-01-2021">Tokyo Rush Quiz (Estudando Next Js - Imersão Alura 2ª edição - Alura 2021)</a> 
+- <a href="https://github.com/leandrocl2005/alurakut-imersao-next-2021">Alurakut (Estudando Next Js - Imersão Alura 3ª edição - Alura 2021)</a>
 
 ## PYTHON + DATASCIENCE
 
