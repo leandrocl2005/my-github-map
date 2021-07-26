@@ -4,6 +4,7 @@ Este é apenas um README para mapear meus repositórios.
 
 ## HTML + CSS + JS
 
+- <a href="https://github.com/leandrocl2005/7em7-B7web-javascript">7 mini projetinhos (Estudando Javascript - 7 em 7 - B7web)</a>
 - <a href="https://github.com/leandrocl2005/maratona-discovery-rocketseat-dev-finance-2021">Dev.finance (Estudando Javascript - Maratona Discovery - Rocketseat 2021)</a>
 - <a href="https://leandrocl2005.github.io/test-algebra-html-css-example/">Teste de álgebra linear com Utteranc e MathJax (Tutorial - PROFMAT - UFTM 2021)</a>
 - <a href="https://leandrocl2005.github.io/leandro-portfolio/">Mini-curso de introdução à HTML, CSS e JS (Tutorial - SNCT - UFTM 2021)</a>
