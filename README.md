@@ -41,6 +41,7 @@ Este é apenas um README para mapear meus repositórios.
 ## PYTHON + MATEMÁTICA
 
 - <a href="https://github.com/leandrocl2005/calculo-2">Exemplos de cálculo vetorial (Material Apoio - DMAT- UFTM 2021)</a>
+- <a href="https://github.com/leandrocl2005/math-with-python-turtle">Curvas paramétricas com Turtle (Material de Apoio - PROFMAT - 2020)</a>
 
 ## SEM CATEGORIA
 
