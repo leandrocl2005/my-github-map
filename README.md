@@ -11,7 +11,7 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/html-css-jquery-svg-maps">Mapa clicável de casos de Covid-19 (Estudando svg clicáveis - 2021)</a>
 - <a href="https://github.com/leandrocl2005/electrical-host">Mapa clicável de casos de redes elétricas (Estudando svg clicáveis - 2021)</a>
 
-## REACT JS / NEXT Js
+## JAVASCRIPT (React / Next)
 
 - <a href="https://github.com/leandrocl2005/snct-uftm">SNCT - UFTM (Projeto para UFTM - 2021)</a>
 - <a href="https://github.com/leandrocl2005/worldtrip">Worldtrip (Estudando Chackra-UI - Ignite - Rocketseat 2021)</a>
@@ -20,13 +20,13 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/imersao-next-alura-01-2021">Tokyo Rush Quiz (Estudando Next Js - Imersão Alura 2ª edição - Alura 2021)</a> 
 - <a href="https://github.com/leandrocl2005/alurakut">Alurakut (Estudando Next Js - Imersão Alura 3ª edição - Alura 2021)</a>
 
-## PYTHON + DATASCIENCE
+## PYTHON (Data science)
 
 - <a href="https://github.com/leandrocl2005/segep-2020-knapsack-problem-bot">Bot de Telegram para resolver o problema da mochila (Tutorial - SEGEP - UFTM 2020)</a>
 - <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados">Mini-curso de ciência de dados (Tutorial - DMAT - UFTM - 2018)</a>
 - <a href="https://github.com/leandrocl2005/granularidade_air_quality">Granularidade usando Air Quality Dataset (Estudando granularidade - 2019)</a>
 
-## PYTHON + DJANGO
+## PYTHON (Django)
 
 - <a href="https://github.com/leandrocl2005/minidashboard">Minidashboard (Estudando Dashboards - 2021)</a>
 - <a href="https://github.com/leandrocl2005/dinopedia">Dinopedia: Introdução ao Django (Tutorial - PROFMAT - UFTM 2021)</a>
@@ -34,11 +34,15 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/weatherSchedule">Weather Schedule (Estudando agendamento de tarefas - 2021)</a>
 - <a href="https://github.com/leandrocl2005/template2django-store">Django2Template Store (Tutorial - PROFMAT - UFTM 2021)</a>
 
-## PYTHON + FLASK
+## PYTHON (Django) + JAVASCRIPT (React)
+
+- <a href="https://github.com/leandrocl2005/ds-food-delivery">Website de entrega de comida (Estudando ecommerce - Semana Spring React 2.0 - DevSuperior 2021)</a>
+
+## PYTHON (Flask)
 
 - <a href="https://github.com/leandrocl2005/flask-imc-boilerplate">Imc app (Tutorial - SUEQ - UFTM 2020)</a>
 
-## PYTHON + MATEMÁTICA
+## PYTHON (Matemática)
 
 - <a href="https://github.com/leandrocl2005/calculo-2">Exemplos de cálculo vetorial (Material Apoio - DMAT- UFTM 2021)</a>
 - <a href="https://github.com/leandrocl2005/math-with-python-turtle">Curvas paramétricas com Turtle (Material de Apoio - PROFMAT - UFTM 2020)</a>
