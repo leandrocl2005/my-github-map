@@ -38,6 +38,7 @@ Este é apenas um README para mapear meus repositórios.
 
 - <a href="https://github.com/leandrocl2005/ds-food-delivery">Website de entrega de comida (Estudando ecommerce - Semana Spring React 2.0 - DevSuperior 2021)</a>
 - <a href="https://github.com/leandrocl2005/dashboard-django-react">Dashboard web (Estudando dashboards - Semana Spring React 4.0 - DevSuperior 2021)</a>
+- <a href="https://github.com/leandrocl2005/django-react-notes-app">Notes APP (Estudando integração Django + React - Youtube Dennis Ivy vídeo - 2021)</a> 
 
 ## PYTHON (Flask)
 
