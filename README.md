@@ -30,6 +30,7 @@ Este é apenas um README para mapear meus repositórios.
 
 ## PYTHON (Django)
 
+- <a href="https://github.com/leandrocl2005/simple-django-crud-mvt-function-based">Employee managment (Estudando based-function CRUD - 2022)</a>
 - <a href="https://github.com/leandrocl2005/minidashboard">Minidashboard (Estudando Dashboards - 2021)</a>
 - <a href="https://github.com/leandrocl2005/dinopedia">Dinopedia: Introdução ao Django (Tutorial - PROFMAT - UFTM 2021)</a>
 - <a href="https://github.com/leandrocl2005/django-photo-gallery">Photo Gallery (Estudando hospedagem de imagens no S3 - 2021)</a>
