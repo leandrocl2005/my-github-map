@@ -53,6 +53,7 @@ Este é apenas um README para mapear meus repositórios.
 
 - <a href="https://github.com/leandrocl2005/calculo-2">Exemplos de cálculo vetorial (Material Apoio - DMAT- UFTM 2021)</a>
 - <a href="https://github.com/leandrocl2005/math-with-python-turtle">Curvas paramétricas com Turtle (Material de Apoio - PROFMAT - UFTM 2020)</a>
+- <a href="https://github.com/leandrocl2005/markov_chain">Cadeias de Markov aplicadas (Material Apoio - DMAT - UFTM 2019)</a>
 
 ## SEM CATEGORIA
 
