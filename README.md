@@ -58,3 +58,4 @@ Este é apenas um README para mapear meus repositórios.
 ## SEM CATEGORIA
 
 - <a href="https://github.com/leandrocl2005/ml-train-tensorjs-regression">Regressão linear App (Estudando Tensorflow.js - Tensorflow.js Crash Course - CodingTheSmartWay 2020)</a>
+- <a href="https://github.com/leandrocl2005/oscar-movie-trailes-website">Oscar Trailers Web App (Estudando API's - Curso de Fullstack - Udacity 2019)</a>
