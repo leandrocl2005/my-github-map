@@ -41,7 +41,7 @@ Este é apenas um README para mapear meus repositórios.
 
 ## PYTHON (Django) + JAVASCRIPT (React)
 
-- <a href="https://github.com/leandrocl2005/SemanaReactSpring-MovieStars">Movie Stars: Integrando React e Django (Semana Spring React - DevSuperior 2022)</a>
+- <a href="https://github.com/leandrocl2005/SemanaReactSpring-MovieStars">Movie Stars: Integrando React e Django (Estudando Integração de React com Django - Semana Spring React - DevSuperior 2022)</a>
 - <a href="https://github.com/leandrocl2005/dinopedia-list-react-typescript-django">Dinopedia: Integrando React e Django (Tutorial - TOT - UFTM 2021)</a>
 - <a href="https://github.com/leandrocl2005/ds-food-delivery">Website de entrega de comida (Estudando ecommerce - Semana Spring React 2.0 - DevSuperior 2021)</a>
 - <a href="https://github.com/leandrocl2005/dashboard-django-react">Dashboard web (Estudando dashboards - Semana Spring React 4.0 - DevSuperior 2021)</a>
