@@ -28,8 +28,9 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/arima_sarimax_models/blob/main/ARIMA_SARIMA_introduction.ipynb">Predição de fatores climáticos (Estudando ARIMA e SARIMA - 2022)</a>
 - <a href="https://github.com/leandrocl2005/eda-with-python">Dashboard: Educação Inclusiva no ENEM para residentes no município de São Paulo (Tutorial - Just for fun 2021)</a>
 - <a href="https://github.com/leandrocl2005/segep-2020-knapsack-problem-bot">Bot de Telegram para resolver o problema da mochila (Tutorial - SEGEP - UFTM 2020)</a>
-- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados">Mini-curso de ciência de dados (Tutorial - DMAT - UFTM - 2018)</a>
 - <a href="https://github.com/leandrocl2005/granularidade_air_quality">Granularidade usando Air Quality Dataset (Estudando granularidade - 2019)</a>
+- <a href="https://github.com/leandrocl2005/complete_data_visualization_with_python">Ferramentas de visualização de dados em Python (Estudando EDA - 2018)</a>
+- <a href="https://github.com/leandrocl2005/Curso-basico-de-Python-para-cientistas-de-dados">Mini-curso de ciência de dados (Tutorial - DMAT - UFTM - 2018)</a>
 
 ## PYTHON (Django)
 
