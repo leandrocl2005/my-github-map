@@ -64,6 +64,10 @@ Este é apenas um README para mapear meus repositórios.
 - <a href="https://github.com/leandrocl2005/math-with-python-turtle">Curvas paramétricas com Turtle (Material de Apoio - PROFMAT - UFTM 2020)</a>
 - <a href="https://github.com/leandrocl2005/markov_chain">Cadeias de Markov aplicadas (Material Apoio - DMAT - UFTM 2019)</a>
 
+## Java (Web)
+
+- <a href="https://github.com/leandrocl2005/java-spring-rocketseat-2023-10">Todo APP (Estudando Java e Spring Boot - Rocketeat 2023)</a>
+
 ## SEM CATEGORIA
 
 - <a href="https://github.com/leandrocl2005/ml-train-tensorjs-regression">Regressão linear App (Estudando Tensorflow.js - Tensorflow.js Crash Course - CodingTheSmartWay 2020)</a>
