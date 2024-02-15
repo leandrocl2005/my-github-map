@@ -4,6 +4,7 @@ Este é apenas um README para mapear meus repositórios.
 
 ## HTML + CSS + JS
 
+- <a href="https://github.com/leandrocl2005/superficies">Galeria de superfícies por equações (Template com mathjax para curso de geometria analítica - UFTM 2024)</a>
 - <a href="https://github.com/leandrocl2005/techblog">Tech BLOG template HTML-CSS (Mini-curso de introdução ao Django - Udemy 2023)</a>
 - <a href="https://github.com/leandrocl2005/starticlab">Starticlab (Produto desenvolvido no PROFMAT - PROFMAT 2022)</a>
 - <a href="https://github.com/leandrocl2005/7em7-B7web-javascript">7 mini projetinhos (Estudando Javascript - 7 em 7 - B7web 2021)</a>
